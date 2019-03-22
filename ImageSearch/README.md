@@ -13,7 +13,7 @@
   
 ## Файлы, состав
 
-* ImageSearch.au3 - Пробиндины клавишы F5 и  ESC на паузу и выход из скрипта
+* ImageSearch.au3
 * ImageSearchDLL.dll
 
 ## Подключение
@@ -22,8 +22,6 @@
 
 ### Команда подключения
 
-````
-
- #include 	<ImageSearch.au3>
- 
-````
+```
+#include <ImageSearch.au3>
+```
