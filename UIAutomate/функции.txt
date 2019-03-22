@@ -1,0 +1,29 @@
+Справка по перечисленным ниже функциям библиотеки находится непосредственно в UDF UIAutomate.au3 перед кодом каждой функции.
+
+
+http://autoit-script.ru/index.php?topic=16780.0
+
+_UIA_CreateLogicalCondition Создаёт логическое условие на основе заданных условий
+_UIA_CreatePropertyCondition Создаёт условие на основе свойства и его значения
+_UIA_ElementDoDefaultAction Выполнение элементом действия по умолчанию
+_UIA_ElementFindInArray Находит элемент, соответствующий заданному свойству и его значению
+_UIA_ElementGetBoundingRectangle Определяет прямоугольную область, ограничивающую элемент
+_UIA_ElementGetFirstLastChild Находит первый и последний дочерние элементы (объекты) указанного элемента
+_UIA_ElementGetParent Определяет родительский элемент (объект) указанного элемента
+_UIA_ElementGetPreviousNext Находит предыдущий и следующий элементы того же уровня
+_UIA_ElementGetPropertyValue Определяет значение заданного свойства элемента
+_UIA_ElementMouseClick Выполняет клик мыши по элементу
+_UIA_ElementScrollIntoView Прокручивает элемент в область видимости
+_UIA_ElementSetFocus Устанавливает элементу фокус ввода
+_UIA_ElementTextSetValue Устанавливает значение (текст) в текстовый элемент
+_UIA_FindAllElements Находит все элементы, соответствующие заданному свойству и его значению
+_UIA_FindAllElementsEx Находит все элементы, соответствующие условию поиска
+_UIA_FindElementsInArray Находит все элементы, соответствующие заданному свойству и его значению
+_UIA_GetControlTypeElement Находит элемент (объект) указанного типа с заданным свойством и значением
+_UIA_GetElementFromCondition Находит элемент (объект) на основе заданного условия
+_UIA_GetElementFromFocus Создаёт элемент (объект) на основе фокуса ввода
+_UIA_GetElementFromHandle Создаёт элемент (объект) на основе дескриптора
+_UIA_GetElementFromPoint Создаёт элемент (объект) на основе экранных координат
+_UIA_ObjectCreate Создаёт объект UIAutomation
+_UIA_WaitControlTypeElement Ожидает элемент (объект) указанного типа с заданным свойством и значением
+_UIA_WaitElementFromCondition Ожидает элемент (объект) на основе заданного условия
