@@ -15,6 +15,9 @@
 
 * ImageSearch.au3
 * ImageSearchDLL.dll
+* Скрипт примера работы
+  * test.au3
+  * test.bmp
 
 ## Подключение
 
