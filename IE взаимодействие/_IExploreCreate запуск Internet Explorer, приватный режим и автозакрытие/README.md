@@ -1,5 +1,8 @@
 # _IExploreCreate запуск Internet Explorer, приватный режим и автозакрытие
 
+## Источник
+[Autoit форум](http://autoit-script.ru/index.php?topic=21877.0)
+
 ## Функция: 
 
 _IExploreCreate
