@@ -1,0 +1,50 @@
+[Info]
+Program=Google_Translator
+Version=0.6
+Language=English
+Author=G.Sandler
+
+[Translation]
+sApp_Name_GoogleTranslator='Google Translator'
+SplashTextOn_LoadingTrnsModl='Please wait, loading translation module...'
+MsgBox_ServerIsOffline='Server [%s] is offline.'
+MsgBox_OKEXIT='OK ==> EXIT'
+MsgBox_CheckInetConn='(check internet connection)'
+SimpleTranslator='Simple translator using translate.google.com service.\r\n* Supports automatic language detection.\r\n* Supports selection translation.\r\n* Supports speak text (using Yandex SpeechKit Cloud).'
+GUICtrlCreateLa_l_TranslateFrom='Translate From:'
+_GUICtrlComboBo_odetectLanguage='Autodetect language'
+GUICtrlCreateLabel_TranslateTo='Translate To:'
+GUICtrlCreateLa_l_TranslateText='Translate text:'
+GUICtrlCreateChckBox_TrnsltWhileType='Translate while typing'
+GUICtrlCreateLa_TranslateResult='Translate result:'
+GUICtrlSetTip_Speak='Speak...'
+GUICtrlCreateButton_About='About'
+GUICtrlCreateButton_Settings='Settings'
+GUICtrlCreateButton_Translate='Translate'
+MsgBox_Attention='Attention'
+MsgBox_NothingToTranslate='Nothing to translate'
+MsgBox_SetDiffe_ationDirections='Set different translation directions.'
+GUICtrlSetData_PleaseWait='Please wait...'
+GUICtrlSetData_Done='Done'
+
+;Tray
+TrayCreateItem_Show='Show %s'
+TrayCreateItem_Exit='Exit'
+
+;About
+About_Version='Version'
+About_PlaySound='Play sound'
+
+;Settings
+Settings_Title='Settings'
+Settings_StartWithWindows='Start with windows'
+Settings_StartMinimized='Start minimized'
+Settings_MinimizeToTray='Minimize to tray'
+Settings_SetOnTop='Set on top'
+Settings_TranslateBySelection='Translate by selection'
+Settings_SpeakSelTranslation='Speak translated selection'
+Settings_TranslationSpeaker='Speaker:'
+Settings_GetLangsDataIntrvl='Get languages data interval (in hours):'
+Settings_0ToGetAlways='(0 - get always)'
+Settings_OK='OK'
+Settings_Cancel='Cancel'

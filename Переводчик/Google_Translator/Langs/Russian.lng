@@ -1,0 +1,50 @@
+[Info]
+Program=Google_Translator
+Version=0.6
+Language=Русский
+Author=G.Sandler
+
+[Translation]
+sApp_Name_GoogleTranslator='Переводчик Google'
+SplashTextOn_LoadingTrnsModl='Пожалуйста, подождите, идёт загрузка модуля переводчика...'
+MsgBox_ServerIsOffline='Сервер [%s] не отвечает.'
+MsgBox_OKEXIT='ОК ==> ВЫХОД'
+MsgBox_CheckInetConn='(проверьте подключение к сети)'
+SimpleTranslator='Простой переводчик использующий сервис translate.google.com.\r\n* Поддерживается автоматическое распознавание языка.\r\n* Поддерживается перевод по выделению.\r\n* Поддерживается возможность проговорить текст (используя Yandex SpeechKit Cloud).'
+GUICtrlCreateLa_l_TranslateFrom='Перевести с:'
+_GUICtrlComboBo_odetectLanguage='Определить язык'
+GUICtrlCreateLabel_TranslateTo='Перевести на:'
+GUICtrlCreateLa_l_TranslateText='Текст для перевода:'
+GUICtrlCreateChckBox_TrnsltWhileType='Переводить по мере набора текста'
+GUICtrlCreateLa_TranslateResult='Результат перевода:'
+GUICtrlSetTip_Speak='Проговорить...'
+GUICtrlCreateButton_About='О программе'
+GUICtrlCreateButton_Settings='Настройки'
+GUICtrlCreateButton_Translate='Перевести'
+MsgBox_Attention='Внимание'
+MsgBox_NothingToTranslate='Нечего переводить'
+MsgBox_SetDiffe_ationDirections='Укажите разные направления перевода.'
+GUICtrlSetData_PleaseWait='Пожалуйста, подождите...'
+GUICtrlSetData_Done='Готово'
+
+;Tray
+TrayCreateItem_Show='Показать %s'
+TrayCreateItem_Exit='Выход'
+
+;About
+About_Version='Версия'
+About_PlaySound='Играть мелодию'
+
+;Settings
+Settings_Title='Настройки'
+Settings_StartWithWindows='Запускать вместе с Windows'
+Settings_StartMinimized='Сворачивать при запуске'
+Settings_MinimizeToTray='Сворачивать в область уведомлений'
+Settings_SetOnTop='Поверх остальных окон'
+Settings_TranslateBySelection='Переводить по выделению'
+Settings_SpeakSelTranslation='Проговорить переведённое выделение'
+Settings_TranslationSpeaker='Голос:'
+Settings_GetLangsDataIntrvl='Интервал получения данных перевода (в часах):'
+Settings_0ToGetAlways='(0 - получать всегда)'
+Settings_OK='ОК'
+Settings_Cancel='Отмена'

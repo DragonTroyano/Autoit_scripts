@@ -1,0 +1,9 @@
+[ToDo]
+
+[Done]
+* About dialog
+* Translation by selection (anyware).
+* Speak translated text.
+* Settings dialog
+* Fix encoding issue when translating not from autodetect (results incorrect for some languages, to hebrew for example).
+* Do not forget to adapt the code to work with multilanguage support (getting langs etc.).
